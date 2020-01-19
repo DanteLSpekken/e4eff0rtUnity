@@ -9429,7 +9429,7 @@ GameObject:
   - component: {fileID: 705006364}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11684,6 +11684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC
       objectReference: {fileID: 0}
+    - target: {fileID: 1000011922212602, guid: b3d1057caadaef44ab620edfef78b14f, type: 3}
+      propertyPath: m_TagString
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 4000014012963586, guid: b3d1057caadaef44ab620edfef78b14f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7
@@ -11761,7 +11765,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 4}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11772,7 +11776,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4, y: 4}
+  m_Size: {x: 10, y: 10}
   m_EdgeRadius: 0
 --- !u!114 &1554279685
 MonoBehaviour:
@@ -11783,15 +11787,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1554279683}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4caf0cdcbc97a4c489093b9843b54591, type: 3}
+  m_Script: {fileID: 11500000, guid: d751220936c22c94b84a63897df603ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue:
-    sentences:
-    - So you want to get to MetaForum, huh?
-    - Why I should let you through?
-    - Better convince me with solid logic though.
-    NPCname: Ezio
 --- !u!1 &1935449409
 GameObject:
   m_ObjectHideFlags: 0
