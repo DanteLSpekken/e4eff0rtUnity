@@ -1,0 +1,1507 @@
+fileFormatVersion: 2
+guid: bb148d9b303d79640a4fce4d532dd9d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8989679920548788367
+    second: Bridges_Toilets_Pillars_SecondFloor_0
+  - first:
+      213: 5458532156635268700
+    second: Bridges_Toilets_Pillars_SecondFloor_1
+  - first:
+      213: 9025860948102536510
+    second: Bridges_Toilets_Pillars_SecondFloor_2
+  - first:
+      213: -5164035045865022691
+    second: Bridges_Toilets_Pillars_SecondFloor_3
+  - first:
+      213: -3789694060812515547
+    second: Bridges_Toilets_Pillars_SecondFloor_4
+  - first:
+      213: 7585160116304938330
+    second: Bridges_Toilets_Pillars_SecondFloor_5
+  - first:
+      213: 8417689973599736439
+    second: Bridges_Toilets_Pillars_SecondFloor_6
+  - first:
+      213: 8935255998102630407
+    second: Bridges_Toilets_Pillars_SecondFloor_7
+  - first:
+      213: 7575705089975762091
+    second: Bridges_Toilets_Pillars_SecondFloor_8
+  - first:
+      213: -5382594927214954798
+    second: Bridges_Toilets_Pillars_SecondFloor_9
+  - first:
+      213: -4281695956525062795
+    second: Bridges_Toilets_Pillars_SecondFloor_10
+  - first:
+      213: -3991457646383677396
+    second: Bridges_Toilets_Pillars_SecondFloor_11
+  - first:
+      213: -6055753768485876627
+    second: Bridges_Toilets_Pillars_SecondFloor_12
+  - first:
+      213: 6723925763825680725
+    second: Bridges_Toilets_Pillars_SecondFloor_13
+  - first:
+      213: 7569332419459716483
+    second: Bridges_Toilets_Pillars_SecondFloor_14
+  - first:
+      213: 2908032654149514473
+    second: Bridges_Toilets_Pillars_SecondFloor_15
+  - first:
+      213: 5955733457127427764
+    second: Bridges_Toilets_Pillars_SecondFloor_16
+  - first:
+      213: 6907236040686815188
+    second: Bridges_Toilets_Pillars_SecondFloor_17
+  - first:
+      213: -3103131562537465957
+    second: Bridges_Toilets_Pillars_SecondFloor_18
+  - first:
+      213: -76702232982549015
+    second: Bridges_Toilets_Pillars_SecondFloor_19
+  - first:
+      213: -2925240045999768113
+    second: Bridges_Toilets_Pillars_SecondFloor_20
+  - first:
+      213: -1079804900310008394
+    second: Bridges_Toilets_Pillars_SecondFloor_21
+  - first:
+      213: 991189490660160950
+    second: Bridges_Toilets_Pillars_SecondFloor_22
+  - first:
+      213: 8505326516557759672
+    second: Bridges_Toilets_Pillars_SecondFloor_23
+  - first:
+      213: 2662408374794140244
+    second: Bridges_Toilets_Pillars_SecondFloor_24
+  - first:
+      213: 3291884948248169682
+    second: Bridges_Toilets_Pillars_SecondFloor_25
+  - first:
+      213: 3781690766842136744
+    second: Bridges_Toilets_Pillars_SecondFloor_26
+  - first:
+      213: -3877729743728457886
+    second: Bridges_Toilets_Pillars_SecondFloor_27
+  - first:
+      213: -7304216733052510595
+    second: Bridges_Toilets_Pillars_SecondFloor_28
+  - first:
+      213: 6381217255311177871
+    second: Bridges_Toilets_Pillars_SecondFloor_29
+  - first:
+      213: 6154910479817371847
+    second: Bridges_Toilets_Pillars_SecondFloor_30
+  - first:
+      213: 867045930029453471
+    second: Bridges_Toilets_Pillars_SecondFloor_31
+  - first:
+      213: 4513248909456592166
+    second: Bridges_Toilets_Pillars_SecondFloor_32
+  - first:
+      213: -2209561902294442169
+    second: Bridges_Toilets_Pillars_SecondFloor_33
+  - first:
+      213: 3309314568519136935
+    second: Bridges_Toilets_Pillars_SecondFloor_34
+  - first:
+      213: -1271403409768813311
+    second: Bridges_Toilets_Pillars_SecondFloor_35
+  - first:
+      213: 7355749865652013647
+    second: Bridges_Toilets_Pillars_SecondFloor_36
+  - first:
+      213: 9002286318568173011
+    second: Bridges_Toilets_Pillars_SecondFloor_37
+  - first:
+      213: -6870316919818489228
+    second: Bridges_Toilets_Pillars_SecondFloor_38
+  - first:
+      213: -8420490747688899123
+    second: Bridges_Toilets_Pillars_SecondFloor_39
+  - first:
+      213: 7051434379715753518
+    second: Bridges_Toilets_Pillars_SecondFloor_40
+  - first:
+      213: -4967634422808994980
+    second: Bridges_Toilets_Pillars_SecondFloor_41
+  - first:
+      213: -3930952578364245089
+    second: Bridges_Toilets_Pillars_SecondFloor_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443660f67b03d504186ef3a5e8904aaf
+      internalID: 8989679920548788367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc7e2d7c9d109e4f93f45884e4644e6
+      internalID: 5458532156635268700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf32b43865867c44810736882445bc5
+      internalID: 9025860948102536510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -16}
+        - {x: 6, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97826cbb4e267249b7d6fbb21ede35f
+      internalID: -5164035045865022691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -8}
+        - {x: -11, y: -8}
+        - {x: -11, y: -12}
+        - {x: -9, y: -12}
+        - {x: -9, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781286a11546294c98276825e74cf45
+      internalID: -3789694060812515547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -12}
+        - {x: -14, y: -12}
+        - {x: -14, y: -14}
+        - {x: 9, y: -14}
+        - {x: 9, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5c175b35d922428935e6ffce2efb1
+      internalID: 7585160116304938330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -16}
+        - {x: 12, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+        - {x: 12, y: 14}
+        - {x: 12, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f7900970a2864096c74acd15bc2b5
+      internalID: 8417689973599736439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 12}
+        - {x: 14, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: 12}
+        - {x: -16, y: 12}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e127c2115e428439f1ee3874708ba3
+      internalID: 8935255998102630407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c069cb7b41bf439f5e718aed13b09
+      internalID: 7575705089975762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e0e1cf9da069489a1b1be7a333536
+      internalID: -5382594927214954798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89cefd446c5a4d40a208d286e61d0bf
+      internalID: -4281695956525062795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 12}
+        - {x: 14, y: 14}
+        - {x: -9, y: 14}
+        - {x: -9, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6675770cc7ab444a8d1bb3927af5732
+      internalID: -3991457646383677396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 8}
+        - {x: 11, y: 12}
+        - {x: 9, y: 12}
+        - {x: 9, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: 12}
+        - {x: -16, y: 12}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84c9f7a586dce49824a1450895ea30
+      internalID: -6055753768485876627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -14}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d8e0211f99b1409de31f3bbcb023e
+      internalID: 6723925763825680725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -12}
+        - {x: -14, y: -12}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9359a4e1d862914db3f93444b107b70
+      internalID: 7569332419459716483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: 8, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb499ca50bee74e95bf19dc1278d7b
+      internalID: 2908032654149514473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: def9d56ab2273ed4ab45f07322c40cb3
+      internalID: 5955733457127427764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 8}
+        - {x: -8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba542232546813445b7e46005c4af57c
+      internalID: 6907236040686815188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e8b99c73bf944985130a3226a19d6
+      internalID: -3103131562537465957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -16}
+        - {x: 12, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 9}
+        - {x: 12, y: 9}
+        - {x: 12, y: 11}
+        - {x: 8, y: 11}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14986ff2fc24945b35ec7ddf8b09e1
+      internalID: -76702232982549015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: 11}
+        - {x: -12, y: 11}
+        - {x: -12, y: 9}
+        - {x: -14, y: 9}
+        - {x: -14, y: -14}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83484f2341138942b24af993aaf929e
+      internalID: -2925240045999768113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 1}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: 8}
+        - {x: -9, y: 8}
+        - {x: -9, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467d0ff84d457441b9c0efcd2f7d38a
+      internalID: -1079804900310008394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 1}
+        - {x: 9, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 8}
+        - {x: 15, y: 8}
+        - {x: 15, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100b871f9c56bf44a9541ab17fce220
+      internalID: 991189490660160950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c01c13b67f9ca41aa6aac25e400cfa
+      internalID: 8505326516557759672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6d9a676d14aa429fea66cfe10b60b
+      internalID: 2662408374794140244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf68200d90ade747bdbb47d9754110b
+      internalID: 3291884948248169682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202d13991e7c2a48aaefa5477311138
+      internalID: 3781690766842136744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: 8, y: -11}
+        - {x: 12, y: -11}
+        - {x: 12, y: -9}
+        - {x: 14, y: -9}
+        - {x: 14, y: 14}
+        - {x: 12, y: 14}
+        - {x: 12, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21802b0b28c0c94c8ec9a1a65559d01
+      internalID: -3877729743728457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -9}
+        - {x: -12, y: -9}
+        - {x: -12, y: -11}
+        - {x: -8, y: -11}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848abeeb981780a40a2cb205502d22ff
+      internalID: -7304216733052510595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -8}
+        - {x: -15, y: -8}
+        - {x: -15, y: -1}
+        - {x: -9, y: -1}
+        - {x: -9, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27091dd65cf9d64983a6b54da00692e
+      internalID: 6381217255311177871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -16}
+        - {x: 8, y: -8}
+        - {x: 9, y: -8}
+        - {x: 9, y: -1}
+        - {x: 15, y: -1}
+        - {x: 15, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f13aa8fa3124344853d44fd1c507d0
+      internalID: 6154910479817371847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -6}
+        - {x: 7, y: 0}
+        - {x: 11, y: -3}
+        - {x: 11, y: -7}
+        - {x: 5, y: -13}
+        - {x: 5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd9dc596e40d745b1419a4475464fb
+      internalID: 867045930029453471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -16}
+        - {x: -5, y: -13}
+        - {x: -11, y: -7}
+        - {x: -11, y: -3}
+        - {x: -7, y: 0}
+        - {x: 16, y: -6}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e6b428fffcfb41be48c69e551987b
+      internalID: 4513248909456592166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 13}
+        - {x: 0, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 13}
+      - - {x: 11, y: 7}
+        - {x: 11, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: 7}
+      - - {x: 8, y: 3}
+        - {x: 8, y: 5}
+        - {x: 16, y: 5}
+        - {x: 16, y: 3}
+      - - {x: 11, y: -3}
+        - {x: 11, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: -3}
+      - - {x: 8, y: -7}
+        - {x: 8, y: -5}
+        - {x: 16, y: -5}
+        - {x: 16, y: -7}
+      - - {x: 11, y: -13}
+        - {x: 11, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: -13}
+      - - {x: 8, y: -16}
+        - {x: 8, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: -16}
+      - - {x: -16, y: 13}
+        - {x: -16, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074db38f78e5fd4a827622678b8dbc7
+      internalID: -2209561902294442169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 13}
+        - {x: 5, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: 13}
+        - {x: 0, y: 13}
+        - {x: 0, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 13}
+      - - {x: -16, y: 13}
+        - {x: -16, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85905523226dbbe43bc3c8e529d83e88
+      internalID: 3309314568519136935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: -12, y: 15}
+        - {x: -12, y: -15}
+      - - {x: 1, y: -16}
+        - {x: 1, y: 16}
+        - {x: 5, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 12}
+        - {x: 5, y: 12}
+        - {x: 5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e651639f8bf1d8e4ebf437d6fc1f61cf
+      internalID: -1271403409768813311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -12}
+        - {x: -16, y: -8}
+        - {x: 16, y: -8}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3da17b1e148a4d99fe735d978d46b
+      internalID: 7355749865652013647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f3969b31168f4b920170ed53d574e
+      internalID: 9002286318568173011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 6}
+        - {x: -16, y: 16}
+        - {x: 5, y: 16}
+        - {x: 5, y: 13}
+        - {x: 11, y: 7}
+        - {x: 11, y: 3}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53364e5d42c7b64396d8db5d3875ee5
+      internalID: -6870316919818489228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 0}
+        - {x: -11, y: 3}
+        - {x: -11, y: 7}
+        - {x: -5, y: 13}
+        - {x: -5, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e32282f9951746868b5a2cabe882a
+      internalID: -8420490747688899123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 15}
+        - {x: 8, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 15}
+      - - {x: 11, y: 9}
+        - {x: 11, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 9}
+      - - {x: 8, y: 5}
+        - {x: 8, y: 7}
+        - {x: 16, y: 7}
+        - {x: 16, y: 5}
+      - - {x: 11, y: -1}
+        - {x: 11, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: -1}
+      - - {x: 8, y: -5}
+        - {x: 8, y: -3}
+        - {x: 16, y: -3}
+        - {x: 16, y: -5}
+      - - {x: 11, y: -11}
+        - {x: 11, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: -11}
+      - - {x: 8, y: -15}
+        - {x: 8, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd4ea7e89bab54cb497fcd69bc8713
+      internalID: 7051434379715753518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 0, y: -13}
+        - {x: 1, y: -13}
+        - {x: 1, y: 16}
+        - {x: 5, y: 16}
+        - {x: 5, y: -16}
+      - - {x: -16, y: -16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e25887f37c9254fad33523d3528180
+      internalID: -4967634422808994980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridges_Toilets_Pillars_SecondFloor_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -16}
+        - {x: 1, y: 16}
+        - {x: 5, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: 12}
+        - {x: 5, y: 12}
+        - {x: 5, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da5ff1be761e394c9e44e118c04b847
+      internalID: -3930952578364245089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

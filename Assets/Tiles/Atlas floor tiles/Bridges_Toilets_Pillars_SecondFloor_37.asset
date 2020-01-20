@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Atlas stairs and doors_22
+  m_Name: Bridges_Toilets_Pillars_SecondFloor_37
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -8733927707100847311, guid: 64024e02375b2914d86722fbc5565a1a,
+  m_Sprite: {fileID: 9002286318568173011, guid: bb148d9b303d79640a4fce4d532dd9d2,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
@@ -34,4 +34,4 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 0
+  m_ColliderType: 1

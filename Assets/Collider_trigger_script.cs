@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Collider_trigger_script : MonoBehaviour
 {
-    public int sortingOrder = 0;
+    public int sortingOrder = 1;
     public SpriteRenderer spr;
     public Collider2D plrCol;
     public GameObject uprFlr;
@@ -27,7 +27,7 @@ public class Collider_trigger_script : MonoBehaviour
             spr = collision.GetComponent<SpriteRenderer>();
             uprFlr.SetActive(false);
             grdFlr.enabled = true;
-            spr.sortingOrder = 0;
+            spr.sortingOrder = 1;
         }
     }
 }
