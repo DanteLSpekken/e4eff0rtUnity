@@ -9312,6 +9312,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sortingOrder: 0
+  spr: {fileID: 0}
+  plrCol: {fileID: 705006364}
+  uprFlr: {fileID: 1418953130}
+  grdFlr: {fileID: 30209834}
 --- !u!61 &792289396
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11120,7 +11124,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1418953131
 Transform:
   m_ObjectHideFlags: 0
@@ -12627,57 +12631,7 @@ CompositeCollider2D:
   m_GeometryType: 0
   m_GenerationType: 0
   m_EdgeRadius: 0
-  m_ColliderPaths:
-  - m_Collider: {fileID: 1418953134}
-    m_ColliderPaths:
-    - - X: 41249971
-        Y: -171250000
-      - X: 41249971
-        Y: -30000000
-      - X: 40000000
-        Y: -30000029
-      - X: 39999971
-        Y: -170000000
-      - X: -20937500
-        Y: -170000029
-      - X: -20937471
-        Y: -171250000
-    - - X: -29062529
-        Y: -171250000
-      - X: -29062529
-        Y: -170000000
-      - X: -40000000
-        Y: -169999971
-      - X: -40000029
-        Y: -30000000
-      - X: -41250000
-        Y: -30000029
-      - X: -41249971
-        Y: -171250000
-    - - X: 41249971
-        Y: -310000000
-      - X: 41249971
-        Y: -188750000
-      - X: 29062500
-        Y: -188750029
-      - X: 29062529
-        Y: -190000000
-      - X: 40000000
-        Y: -190000029
-      - X: 40000029
-        Y: -310000000
-    - - X: -40000029
-        Y: -310000000
-      - X: -39999971
-        Y: -190000000
-      - X: 20937500
-        Y: -189999971
-      - X: 20937471
-        Y: -188750000
-      - X: -41250000
-        Y: -188750029
-      - X: -41249971
-        Y: -310000000
+  m_ColliderPaths: []
   m_CompositePaths:
     m_Paths:
     - - {x: -2.9062557, y: -17.125}

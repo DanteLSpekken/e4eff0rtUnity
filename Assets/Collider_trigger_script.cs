@@ -5,19 +5,29 @@ using UnityEngine;
 public class Collider_trigger_script : MonoBehaviour
 {
     public int sortingOrder = 0;
-    private SpriteRenderer player;
+    public SpriteRenderer spr;
+    public Collider2D plrCol;
+    public GameObject uprFlr;
+    public Collider2D grdFlr;
+
 
     private void OnTriggerEnter2D(UnityEngine.Collider2D collision)
     {
-        player = collision.GetComponent<SpriteRenderer>();
-
-        player.sortingOrder = 2;
+        if (collision == plrCol){
+            spr = collision.GetComponent<SpriteRenderer>();
+            uprFlr.SetActive(true);
+            grdFlr.enabled = false;
+            spr.sortingOrder = 2;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        player = collision.GetComponent<SpriteRenderer>();
-
-        player.sortingOrder = 0;
+        if (collision == plrCol){
+            spr = collision.GetComponent<SpriteRenderer>();
+            uprFlr.SetActive(false);
+            grdFlr.enabled = true;
+            spr.sortingOrder = 0;
+        }
     }
 }
