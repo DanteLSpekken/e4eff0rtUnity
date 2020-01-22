@@ -17,11 +17,18 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private float timeBetweenQuetions = 1f;
 
+    public HealthDisplay healthDisplay;
+
+    public AudioSource source;
+
+
     private void Start()
+
     {
-        if( unansweredQuestions == null)
+        source.Stop();
+        if (unansweredQuestions == null)
         {
-            unansweredQuestions = questions.ToList<Quesition>(); 
+            unansweredQuestions = questions.ToList<Quesition>();
         }
         if (unansweredQuestions.Count == 0)
         {
@@ -31,8 +38,8 @@ public class GameManager : MonoBehaviour
 
     }
 
-   
-    
+
+
     void getQuestion()
     {
         currentQuestion = unansweredQuestions[0];
@@ -52,15 +59,17 @@ public class GameManager : MonoBehaviour
 
     public void userSelectedTrue()
     {
-        if(currentQuestion.isTrue)
+        if (currentQuestion.isTrue)
         {
             Debug.Log("True Is True");
+            StartCoroutine(TransitionToNextQuestion());
         }
         else
         {
             Debug.Log("Wrong cuz it need to eb true");
+            healthDisplay.playersucks();
+            source.Play();
         }
-        StartCoroutine(TransitionToNextQuestion());
     }
 
     public void userSelectedFalse()
@@ -68,11 +77,14 @@ public class GameManager : MonoBehaviour
         if (!currentQuestion.isTrue)
         {
             Debug.Log("Correct");
+            StartCoroutine(TransitionToNextQuestion());
         }
         else
+
         {
             Debug.Log("Wrong");
+            healthDisplay.playersucks();
+            source.Play();
         }
     }
-
 }
