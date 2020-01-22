@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class HealthDisplay : MonoBehaviour
 {
-    private int health = 2;
+    private static int health = 2;
     public Text healthText;
     
     // Start is called before the first frame update
@@ -17,7 +17,7 @@ public class HealthDisplay : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (health > -1)
+        if (health > 0)
         {
             healthText.text = "HEALTH : " + health;
         } else

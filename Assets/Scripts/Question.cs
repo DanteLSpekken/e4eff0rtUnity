@@ -1,4 +1,8 @@
-﻿
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
 [System.Serializable]
 public struct Quesition
 {
@@ -7,5 +11,6 @@ public struct Quesition
 
 }
 
-
-
+public static class Globals{
+    public static List<Quesition> questions = new List<Quesition>();
+}

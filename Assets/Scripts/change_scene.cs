@@ -11,7 +11,20 @@ public class change_scene : MonoBehaviour
     {
         if (collision == plrCol)
         {
+            resetQuestions();
+            addQuestion("did this work", true);
             SceneManager.LoadScene(sceneNumber);
         }
+    }
+
+    public void addQuestion(string text, bool answer){
+        Quesition q;
+        q.fact = text;
+        q.isTrue = answer;
+        Globals.questions.Add(q);
+    }
+
+    public void resetQuestions(){
+        Globals.questions = new List<Quesition>();
     }
 }

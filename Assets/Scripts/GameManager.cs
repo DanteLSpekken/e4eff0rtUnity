@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public Quesition[] questions;
     private static List<Quesition> unansweredQuestions;
     private Quesition currentQuestion;
 
@@ -28,10 +27,11 @@ public class GameManager : MonoBehaviour
         source.Stop();
         if (unansweredQuestions == null)
         {
-            unansweredQuestions = questions.ToList<Quesition>();
+            unansweredQuestions = Globals.questions.ToList<Quesition>();
         }
         if (unansweredQuestions.Count == 0)
         {
+            unansweredQuestions = null;
             SceneManager.LoadScene("Atlas Scene");
         }
         if (unansweredQuestions.Count > 0)
@@ -46,8 +46,6 @@ public class GameManager : MonoBehaviour
     {
         currentQuestion = unansweredQuestions[0];
         factText.text = currentQuestion.fact;
-        Debug.Log("Got Question");
-
     }
 
     IEnumerator TransitionToNextQuestion()
@@ -63,12 +61,10 @@ public class GameManager : MonoBehaviour
     {
         if (currentQuestion.isTrue)
         {
-            Debug.Log("True Is True");
             StartCoroutine(TransitionToNextQuestion());
         }
         else
         {
-            Debug.Log("Wrong cuz it need to eb true");
             healthDisplay.playersucks();
             source.Play();
         }
@@ -78,13 +74,11 @@ public class GameManager : MonoBehaviour
     {
         if (!currentQuestion.isTrue)
         {
-            Debug.Log("Correct");
             StartCoroutine(TransitionToNextQuestion());
         }
         else
 
         {
-            Debug.Log("Wrong");
             healthDisplay.playersucks();
             source.Play();
         }
