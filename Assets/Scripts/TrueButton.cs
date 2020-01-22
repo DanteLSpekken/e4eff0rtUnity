@@ -22,8 +22,7 @@ public class TrueButton : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("True Button Works");
-        instance.userSelectedTrue();
-       
+        instance.userSelectedTrue();     
     }
 
 }
