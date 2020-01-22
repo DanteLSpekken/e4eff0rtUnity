@@ -8,6 +8,8 @@ public class Leave_New_Floor : MonoBehaviour
     public SpriteRenderer spr;
     public Collider2D plrCol;
     public GameObject uprFlr;
+    public GameObject upFlrDOORS;
+    public GameObject upFlrSPRITES;
     public Collider2D grdFlr;
     public Collider2D grdFlrEXTRA;
 
@@ -17,9 +19,12 @@ public class Leave_New_Floor : MonoBehaviour
         {
             spr = collision.GetComponent<SpriteRenderer>();
             uprFlr.SetActive(false);
+            upFlrSPRITES.SetActive(false);
+            upFlrDOORS.SetActive(false);
             grdFlr.enabled = true;
             grdFlrEXTRA.enabled = true;
             spr.sortingOrder = 1;
+            spr.sortingLayerID = SortingLayer.NameToID("Ground (items)");
         }
     }
 }

@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 1122079813
+    locked: 0
+  - name: Ground (items)
+    uniqueID: 872288037
+    locked: 0
+  - name: 1st Floor
+    uniqueID: 2431552475
+    locked: 0
+  - name: 1st Floor (items)
+    uniqueID: 2531398761
+    locked: 0
+  - name: Effects
+    uniqueID: 1240703521
+    locked: 0

@@ -8,6 +8,8 @@ public class Enter_New_Floor : MonoBehaviour
     public SpriteRenderer spr;
     public Collider2D plrCol;
     public GameObject uprFlr;
+    public GameObject upFlrDOORS;
+    public GameObject upFlrSPRITES;
     public Collider2D grdFlr;
     public Collider2D grdFlrEXTRA;
 
@@ -18,9 +20,12 @@ public class Enter_New_Floor : MonoBehaviour
         {
             spr = collision.GetComponent<SpriteRenderer>();
             uprFlr.SetActive(true);
+            upFlrDOORS.SetActive(true);
             grdFlr.enabled = false;
             grdFlrEXTRA.enabled = false;
-            spr.sortingOrder = 2;
+            upFlrSPRITES.SetActive(true);
+            spr.sortingOrder = 1;
+            spr.sortingLayerID = SortingLayer.NameToID("1st Floor (items)");
         }
     }
 }
