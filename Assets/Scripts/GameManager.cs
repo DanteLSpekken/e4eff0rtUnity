@@ -34,8 +34,10 @@ public class GameManager : MonoBehaviour
         {
             SceneManager.LoadScene("Atlas Scene");
         }
-        getQuestion();
-
+        if (unansweredQuestions.Count > 0)
+        {
+            getQuestion();
+        }
     }
 
 
