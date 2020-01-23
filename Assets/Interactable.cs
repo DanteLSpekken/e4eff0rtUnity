@@ -9,29 +9,18 @@ public class Interactable : MonoBehaviour
     private bool triggering;
     public DialogueTrigger diaTrigger;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
         if (triggering)
         {
-            Debug.Log("Within Range");
-            if (Input.GetButtonDown("Submit"))
-            {
-                Debug.Log("Pressed the Interact Button");
-                diaTrigger.TriggerDialogue();
-            }
+            diaTrigger.TriggerDialogue();
         }
     }
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "NPC")
+        if (other.tag == "Player")
         {
             triggering = true;
             triggeringNpc = other.gameObject;
@@ -40,7 +29,7 @@ public class Interactable : MonoBehaviour
 
     void OnTriggerExit(Collider other)
     {
-        if (other.tag == "NPC")
+        if (other.tag == "Player")
         {
             triggering = false;
             triggeringNpc = null;
