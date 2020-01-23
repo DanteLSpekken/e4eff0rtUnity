@@ -29,12 +29,12 @@ public class GameManager : MonoBehaviour
         {
             unansweredQuestions = Globals.questions.ToList<Quesition>();
         }
-        if (unansweredQuestions.Count == 0)
+        else if (unansweredQuestions.Count < 1)
         {
             unansweredQuestions = null;
             SceneManager.LoadScene("Atlas Scene");
         }
-        if (unansweredQuestions.Count > 0)
+        else
         {
             getQuestion();
         }
