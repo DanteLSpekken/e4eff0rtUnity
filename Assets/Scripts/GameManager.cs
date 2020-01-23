@@ -9,7 +9,6 @@ public class GameManager : MonoBehaviour
 {
     private static List<Quesition> unansweredQuestions;
     private Quesition currentQuestion;
-
     [SerializeField]
     private Text factText;
 
@@ -27,7 +26,8 @@ public class GameManager : MonoBehaviour
         source.Stop();
         if (unansweredQuestions == null)
         {
-            unansweredQuestions = Globals.questions.ToList<Quesition>();
+            unansweredQuestions = Globals.questions;
+            getQuestion();
         }
         else if (unansweredQuestions.Count < 1)
         {
@@ -40,7 +40,12 @@ public class GameManager : MonoBehaviour
         }
     }
 
-
+    void Update(){
+ 
+        if(Input.GetKeyDown("escape")){
+            Application.Quit();
+        }
+    }
 
     void getQuestion()
     {

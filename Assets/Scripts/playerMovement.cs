@@ -31,6 +31,10 @@ public class playerMovement : MonoBehaviour
             sprintState = true;
         }
         else sprintState = false;
+        
+        if(Input.GetKeyDown("escape")){
+            Application.Quit();
+        }
     }
 
     void FixedUpdate()

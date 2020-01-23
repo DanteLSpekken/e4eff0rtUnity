@@ -421,7 +421,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is a very nicec question, enjoy me it :)
+  m_Text: 
 --- !u!222 &663125334
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1421,35 +1421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 073d8134cedc727448095dcb2ef88268, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questions:
-  - fact: What is "TRUE"
-    isTrue: 1
-  - fact: What is "FALSE"
-    isTrue: 0
-  - fact: If A is TRUE, what is A?
-    isTrue: 1
-  - fact: If B is FALSE, what is B?
-    isTrue: 0
-  - fact: "\u2227 is a and sign. If A is FALSE and B is TRUE, what is A\u2227B?"
-    isTrue: 0
-  - fact: "If A is TRUE and B is TRUE, what is A\u2227B?"
-    isTrue: 1
-  - fact: "\u2228 is a or sign. If A is FALSE and B is FALSE, What is A\u2228B?"
-    isTrue: 0
-  - fact: "If A is TRUE and B is FALSE, What is A\u2228B?"
-    isTrue: 1
-  - fact: "If A is FALSE and B is TRUE, What is A\u2228B?"
-    isTrue: 1
-  - fact: "If A is True and B is TRUE, What is A\u2228B?"
-    isTrue: 1
-  - fact: ThIS GAme gOoD?
-    isTrue: 1
-  - fact: Is this the last question?
-    isTrue: 0
-  - fact: This time for real, Is this the last question?
-    isTrue: 0
-  - fact: bye == True, False == -1 Hp
-    isTrue: 1
   factText: {fileID: 663125333}
   timeBetweenQuetions: 1
   healthDisplay: {fileID: 1614770249}
