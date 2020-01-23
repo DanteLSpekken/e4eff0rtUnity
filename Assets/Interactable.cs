@@ -18,18 +18,18 @@ public class Interactable : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "NPC")
         {
             triggering = true;
             triggeringNpc = other.gameObject;
         }
     }
 
-    void OnTriggerExit(Collider other)
+    void OnTriggerExit2D(Collider2D other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "NPC")
         {
             triggering = false;
             triggeringNpc = null;
